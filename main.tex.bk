@@ -119,15 +119,15 @@
 
 \section{Education}
 
-\cventry{2022--present}{PhD candidate, Member of Robotics and Computer Vision Lab}{Southern University of Science and Technology (SUSTech)}{}{Supervised by Dr. Hong Zhang, Fellow of IEEE and Canadian Academy of Engineering}
+\cventry{2022--present}{PhD candidate, Member of Robotics and Vision Lab}{Southern University of Science and Technology (SUSTech)}{Shenzhen}{Supervised by Dr. Hong Zhang, Fellow of IEEE and Canadian Academy of Engineering}
 {}  % Arguments not required can be left empty
 
-\cventry{2020--2022 :}{Visisting student, Member of Robotics and Computer Vision Lab}{SUSTech}{}{Supervised by Dr. Hong Zhang}
+\cventry{2020--2022 :}{Visisting student, Member of Robotics and Vision Lab}{SUSTech}{Shenzhen}{Supervised by Dr. Hong Zhang}
 {}
 
-\cventry{2019--2021 :}{Master of Engineering, Member of Biomimetic and Intelligent Robotics Lab}{Guangdong University of Technology (GDUT)}{}{Supervised by Dr. Hong Zhang}{}
+\cventry{2019--2021 :}{Master of Engineering, Member of Biomimetic and Intelligent Robotics Lab}{Guangdong University of Technology (GDUT)}{Guangzhou}{Supervised by Dr. Hong Zhang}{}
 
-\cventry{2015--2019 :}{Bachelor of Engineering, Mechanical and Electrical Engineering}{GDUT}{}{}{}
+\cventry{2015--2019 :}{Bachelor of Engineering, Mechanical and Electrical Engineering}{GDUT}{Guangzhou}{}{}
 %{Advanced exposure to various areas of computer science along with a one and half year research project on Reversible Logic Synthesis.}
 %\cvitem{CGPA :}{7.96/10}
 % \cventry{2009--2013 :}{Bachelor of Engineering, Computer Science \& Technology}{Indian Institute of Engineering Science \& Technology}{Shibpur(\textit{Formerly} Bengal Engineering and Science University, Shibpur)}{}{}
@@ -163,25 +163,22 @@
 \bibliographystyle{conference}{plainyrrev}
 \bibliography{conference}{conference}
 {\large \textsc{Refereed Conference Publications}}
-
-\cventry{2024}{Hanjing Ye, \textmd{Jieting Zhao, Yu Zhan, Weinan Chen, Li He and Hong Zhang$^{*}$}}{}{\textit{Person Re-Identification for Robot Person Following with Online Continual Learning}}{Accepted by RAL 2024}{}
-\cventry{2024}{\textmd{Jieting Zhao,} Hanjing Ye, \textmd{Yu Zhan and Hong Zhang$^{*}$}}{}{\textit{Human Orientation Estimation Under Partial Observation}}{Accepted by IROS 2024}{}
-\cventry{2024}{\textmd{Jingwen Yu,} Hanjing Ye, \textmd{Jianhao Jiao, Ping Tan and Hong Zhang$^{*}$}}{}{\textit{GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection}}{Accepted by IROS 2024}{}
-\cventry{2023}{Hanjing Ye, \textmd{Jieting Zhao, Yaling Pan, Weinan Chen, Li He and Hong Zhang$^{*}$}}{}{\textit{Robot Person Following Under Partial Occlusion}}{Published in ICRA 2023}{}
-\cventry{2023}{Hanjing Ye$^{\dagger}$, \textmd{Weinan Chen$^{\dagger}$, Jingwen Yu, Li He, Yisheng Guan and Hong Zhang$^{*}$}}{}{\textit{Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder}}{Published in ROBOTICA 2023}{}
-\cventry{2023}{\textmd{Zhilong Tang}, Hanjing Ye \textmd{and Hong Zhang$^{*}$}}{}{\textit{Multi-scale Point Octree Encoding Network for Point Cloud based Place Recognition}}{Published in IROS 2023}{}
-\cventry{2022}{\textmd{Weinan Chen$^{\dagger}$,} Hanjing Ye$^{\dagger}$, \textmd{Lei Zhu, Chao Tang, Changfei Fu and Hong Zhang$^{*}$}}{}{\textit{Keyframe Selection with Information Occupancy Grid Model for Long-term Data Association}}{Published in IROS 2022}{}
-\cventry{2021}{Hanjing Ye, \textmd{Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan and Hong Zhang$^{*}$}}{}{\textit{Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker}}{Published in ROBIO 2021}{}
+\cventry{2024}{\textmd{Jieting Zhao,} Hanjing Ye, \textmd{Yu Zhan and Hong Zhang$^{*}$}}{}{Human Orientation Estimation Under Partial Observation}{Accepted by \textit{IROS 2024}}{}
+\cventry{2024}{\textmd{Jingwen Yu,} Hanjing Ye, \textmd{Jianhao Jiao, Ping Tan and Hong Zhang$^{*}$}}{}{GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection}{Accepted by \textit{IROS 2024}}{}
+\cventry{2023}{Hanjing Ye, \textmd{Jieting Zhao, Yaling Pan, Weinan Chen, Li He and Hong Zhang$^{*}$}}{}{Robot Person Following Under Partial Occlusion}{published in \textit{ICRA 2023}}{}
+\cventry{2023}{\textmd{Zhilong Tang}, Hanjing Ye \textmd{and Hong Zhang$^{*}$}}{}{Multi-scale Point Octree Encoding Network for Point Cloud based Place Recognition}{Published in \textit{IROS 2023}}{}
+\cventry{2022}{\textmd{Weinan Chen$^{\dagger}$,} Hanjing Ye$^{\dagger}$, \textmd{Lei Zhu, Chao Tang, Changfei Fu and Hong Zhang$^{*}$}}{}{Keyframe Selection with Information Occupancy Grid Model for Long-term Data Association}{Published in \textit{IROS 2022}}{}
+\cventry{2021}{Hanjing Ye, \textmd{Guangcheng Chen, Weinan Chen, Li He, Yisheng Guan and Hong Zhang$^{*}$}}{}{Mapping While Following: 2D LiDAR SLAM in Indoor Dynamic Environments with a Person Tracker}{Published in \textit{ROBIO 2021}}{}
 
 % \subsection{Journal Articles}
-% \newbibliography{journal}
-% \nocite{journal}{*}
-% \bibliographystyle{journal}{plainyrrev}
-% \bibliography{journal}{journal}
-% {\large \textsc{Refereed Journal Articles}}
+\newbibliography{journal}
+\nocite{journal}{*}
+\bibliographystyle{journal}{plainyrrev}
+\bibliography{journal}{journal}
+{\large \textsc{Refereed Journal Articles}}
+\cventry{2024}{Hanjing Ye, \textmd{Jieting Zhao, Yu Zhan, Weinan Chen, Li He and Hong Zhang$^{*}$}}{}{Person Re-Identification for Robot Person Following with Online Continual Learning}{Submitted to \textit{IEEE Robotics and Automation Letters}}{}
 
-
-
+\cventry{2023}{Hanjing Ye$^{\dagger}$, \textmd{Weinan Chen$^{\dagger}$, Jingwen Yu, Li He, Yisheng Guan and Hong Zhang$^{*}$}}{}{Condition-Invariant and Compact Visual Place Description by Convolutional Autoencoder}{Published in \textit{ROBOTICA}}{}
 
 
 
@@ -204,8 +201,8 @@
 %----------------------------------------------------------------------------------------
 
 \section{Research Experience}
-\subsection{Robotics and Computer Vision Lab, SUSTech}
-\cventry{2021--present}{Robot Person Following (RPF)}{}{}{}
+\subsection{Shenzhen Key Laboratory of Robotics and Computer Vision, SUSTech}
+\cventry{2021--present}{\textit{Robot Person Following (RPF)}}{}{}{}
 {
   \begin{itemize}
     \item Developing a heuristic-guided person-search strategy for simultaneous exploring and searching in unknown environments.
@@ -215,13 +212,11 @@
   \end{itemize}
   % Developing a deep multi-modal architecture for accurately predicting protein interaction information from biomedical text. 
 }
-\cvitem{Advisor :}{\textbf{Dr. Hong Zhang}}
+\cvitem{Advisor :}{\textbf{Dr. Hong Zhang}, \textit{Chair Professor, Department of Electronic and Electrical Engineering, SUSTech}; Professor Emeritus, University of Alberta}
 
----------------------------------------------------------------------------------------------------------------------------------
+\subsection{Shenzhen Key Laboratory of Robotics and Computer Vision, SUSTech \&  Biomimetic and Intelligent Robotics Laboratory, GDUT}
 
-\subsection{Robotics and Computer Vision Lab, SUSTech \&  Biomimetic and Intelligent Robotics Lab, GDUT}
-
-\cventry{2019--2021}{Visual Place Recognition (VPR)}{}{}{}
+\cventry{2019--2021}{\textit{Visual Place Recognition (VPR)}}{}{}{}
 {
   \begin{itemize}
     \item Proposed a unified benchmark targeting geometric verification of loop closure detection under long-term conditional variations.
@@ -230,7 +225,7 @@
   \end{itemize}
   % Analyzing different modalities of genes like gene expression profiles, protein 3D structure, underlying amino acid sequence using popular deep learning models to obtain deeper insight into the underlying biological system. 
 }
-\cvitem{Advisor :}{\textbf{Dr. Hong Zhang}}
+\cvitem{Advisor :}{\textbf{Dr. Hong Zhang}, \textit{Chair Professor, Department of Electronic and Electrical Engineering, SUSTech}; Professor Emeritus, University of Alberta}
 
 
 
@@ -290,7 +285,7 @@
 \cvitem{}{IEEE Transactions on Automation Science and Engineering (TASE) Reviewer}
 \cvitem{}{IEEE ICRA, CASE Reviewer}
 \cvitem{}{IEEE/RSJ IROS Reviewer}
-\cvitem{}{IEEE ICRA 2021 Session Chair \& Outstanding Volunteer}
+\cvitem{}{IEEE ICRA 2021 Organizing Committee \& Outstanding Volunteer}
 % \cvitem{Database}{SQL, MySQL, Apache, Neo4j}
 
 
